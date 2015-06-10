@@ -14,4 +14,3 @@ class TestHelper(unittest.TestCase):
     def tearDown(self):
         db.session.remove()
         db.drop_all()
-[uckk4436885a]/home/chrycyna/NewFile.txt
